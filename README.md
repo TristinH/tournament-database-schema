@@ -1,4 +1,4 @@
-Instructions to run:
+# Instructions to run:
 
 The functions in tournament.py are reliant on a specifically structured database. To be able to use those functions you must first 
 establish the database schema found in tournament.sql. The easiest way to do this is to open the PostgreSQL terminal (psql) and type the 
