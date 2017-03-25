@@ -1,6 +1,6 @@
 Instructions to run:
 
-	The functions in tournament.py are reliant on a specifically structured database. To be able to use those functions you must first 
+The functions in tournament.py are reliant on a specifically structured database. To be able to use those functions you must first 
 establish the database schema found in tournament.sql. The easiest way to do this is to open the PostgreSQL terminal (psql) and type the 
 command \i tournament.sql. This will automatically establish the database (beware that the file is setup to drop any database already 
 present named tournament). Alternatively you could copy all the commands and paste them into your terminal and run them from there. Once 
